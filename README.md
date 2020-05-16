@@ -6,4 +6,4 @@ I have used the magic 🎇 of [Joi](https://github.com/hapijs/joi) for validatio
 
 > 🛑 Please Read License 🛑
 > 
-> Make sure to read license before using this code in production and double make sure that you understand the license
+> Make sure to read license before using the code from this repo in production and double make sure that you understand the license
